@@ -1,5 +1,4 @@
 # The Algorithms - Java
-=======================
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/TheAlgorithms/100)
 [![Gitter chat](https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square)](https://gitter.im/TheAlgorithms)&nbsp;
 
@@ -12,17 +11,13 @@ You can run and edit the algorithms or contribute to them using Gitpod.io, a fre
 
 
 ### All algorithms are implemented in Java (for educational purposes)
-=====================================================================
 These implementations are for learning purposes. The implementations may be less efficient than the Java standard library.
 
 ## Contribution Guidelines
-==========================
 Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
 ## Community Channel
-====================
 We're on [Gitter](https://gitter.im/TheAlgorithms)! Please join us.
 
 ## Algorithms
-=============
 See our [directory](DIRECTORY.md).
